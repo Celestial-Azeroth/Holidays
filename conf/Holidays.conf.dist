@@ -1,0 +1,19 @@
+[worldserver]
+
+########################################
+#	Holidays 
+# Event Module
+########################################
+
+#	Should the Module be active?
+# 0 - Disable : 1 - Enable
+Holidays.Enable = 1
+
+
+#	Should the Module be announced in chat?
+# 0 - Disable : 1 - Enable
+Holidays.AnnounceOnLogin = 1
+
+#	Should Friday count as a weekend?
+# 0 - Disable : 1 - Enable
+Holidays.FridayIsWeekend = 1
